@@ -6,3 +6,5 @@ while count <= 5:
     print("this is a loop")
     count += 1
 
+for i in (1,5): 
+    print("This is a anther loop")
